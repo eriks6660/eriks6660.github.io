@@ -1,3 +1,3 @@
-# Schmidt Family Site
+# Static page repo. 
 
-This is the home of the Schmidt Family. Please be patient to be forwared to your destination.
+Nothing here.
